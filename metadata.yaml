@@ -1,0 +1,5 @@
+name: 中文扑克牌游戏中心
+version: 3.0.0
+author: 扑克大师
+description: 全中文指令的扑克牌游戏中心，包含二十一点、德州扑克、十三张、锄大地等完整扑克游戏
+main: main.py
